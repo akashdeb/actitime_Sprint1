@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-21T10:37:31 IST" name="Default suite" finished-at="2023-10-21T10:37:46 IST" duration-ms="14624">
+    <groups>
+    </groups>
+    <test started-at="2023-10-21T10:37:31 IST" name="Default test" finished-at="2023-10-21T10:37:46 IST" duration-ms="14624">
+      <class name="home_Module.ToVerifyHomePageTitle">
+        <test-method is-config="true" signature="bs()[pri:0, instance:home_Module.ToVerifyHomePageTitle@76b1e9b8]" started-at="2023-10-21T10:37:31 IST" name="bs" finished-at="2023-10-21T10:37:31 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:home_Module.ToVerifyHomePageTitle@76b1e9b8]" started-at="2023-10-21T10:37:31 IST" name="bc" finished-at="2023-10-21T10:37:40 IST" duration-ms="8797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:home_Module.ToVerifyHomePageTitle@76b1e9b8]" started-at="2023-10-21T10:37:40 IST" name="bm" finished-at="2023-10-21T10:37:40 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="toverifyHomePage()[pri:0, instance:home_Module.ToVerifyHomePageTitle@76b1e9b8]" started-at="2023-10-21T10:37:40 IST" name="toverifyHomePage" finished-at="2023-10-21T10:37:44 IST" duration-ms="4064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toverifyHomePage -->
+        <test-method is-config="true" signature="am()[pri:0, instance:home_Module.ToVerifyHomePageTitle@76b1e9b8]" started-at="2023-10-21T10:37:44 IST" name="am" finished-at="2023-10-21T10:37:46 IST" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:home_Module.ToVerifyHomePageTitle@76b1e9b8]" started-at="2023-10-21T10:37:46 IST" name="ac" finished-at="2023-10-21T10:37:46 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="as()[pri:0, instance:home_Module.ToVerifyHomePageTitle@76b1e9b8]" started-at="2023-10-21T10:37:46 IST" name="as" finished-at="2023-10-21T10:37:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- home_Module.ToVerifyHomePageTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
