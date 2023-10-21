@@ -7,6 +7,7 @@ public class ToBookAProductFromFlipkart {
 	@Test(priority = -15)
 	public void login() {
 		System.out.println("The user has logged in to the app");
+		System.out.println("The user has logged in to the app");
 	}
 	
 	@Test(priority = 2)
