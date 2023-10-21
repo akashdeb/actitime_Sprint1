@@ -17,6 +17,15 @@ public class ToBookAProductFromFlipkart {
 	@Test(priority = 3)
 	public void selectProduct() {
 		System.out.println("The product is selected");
+		
+		System.out.println("The product is selected");
+
+		
+		System.out.println("The product is selected");
+
+		
+		System.out.println("The product is selected");
+
 	}
 	
 	
